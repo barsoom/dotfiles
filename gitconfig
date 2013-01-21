@@ -1,2 +1,6 @@
 [push]
 	default = current
+[color]
+	status = auto
+	diff = auto
+	branch = auto
